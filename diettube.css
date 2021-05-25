@@ -1,0 +1,29 @@
+/* ##### hide FEED on home ##### */
+#feed, ytd-browse[page-subtype=home] {
+	display: none !important;
+}
+
+/* ##### hide large "EXPLORE" button ##### */
+ytd-guide-section-renderer:nth-child(1) #items > ytd-guide-entry-renderer:nth-child(2) {
+	display: none !important;
+}
+
+/* ##### hide small "EXPLORE" button ##### */
+ytd-mini-guide-renderer #items ytd-mini-guide-entry-renderer:nth-child(2) {
+	display: none !important;
+}
+
+/* ##### hide "SUBSCRIPTIONS"/"BEST OF YOUTUBE"/"MORE FROM YOUTUBE" sections ##### */
+ytd-guide-section-renderer:nth-child(n+2) {
+	display: none !important;
+}
+
+/* ##### hide RECOMMENDATIONS on the right side of a video ##### */
+#secondary-inner {
+	display: none !important;
+}
+
+/* ##### hide ENDSCREEN RECOMMENDATIONS ##### */
+.ytp-endscreen-content {
+	display: none !important;
+}
