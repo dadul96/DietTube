@@ -8,7 +8,7 @@ Browser add-on that prevents you from binge-watching recommended YouTube videos.
 ![](screenshots/screenshot_3.png)
 
 ### Installation
-* Firefox: Just download via Firefox Add-on Manager -> [DietTube](https://addons.mozilla.org/en-US/firefox/)
+* Firefox: Just download via Firefox Add-on Manager -> [DietTube](https://addons.mozilla.org/en-US/firefox/addon/diettube/)
 * Edge: Just follow this [guide](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/getting-started/extension-sideloading).
 * Chrome: Just follow this [guide](https://developer.chrome.com/docs/extensions/mv3/getstarted/#manifest).
 
