@@ -27,3 +27,6 @@ ytd-guide-section-renderer:nth-child(n+2) {
 .ytp-endscreen-content {
 	display: none !important;
 }
+.ytp-fullscreen-grid {
+	display: none !important;
+}

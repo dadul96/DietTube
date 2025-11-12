@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "DietTube",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "Prevents you from binge-watching recommended YouTube videos.",
 	"developer": {
 	  "name": "dadul96",
