@@ -14,7 +14,7 @@ Browser add-on that prevents you from binge-watching recommended YouTube videos.
 
 ### Q&A
 * __Does this add-on also block ads?__ No, I recommend you to use uBlock Origin.
-* __Why is this add-on not in the Chrome Web Store?__ Because it costs money to publish an add-on there.
+* __Why is this add-on not in the Chrome Web Store?__ Because I don't use Chrome and it even costs money to publish an add-on there.
 * __Why is this add-on not in the Edge Add-on Store?__ Because I don't use Edge and therefore I don't want to create an additional developer account for a browser that I don't use.
 
 ### Author
